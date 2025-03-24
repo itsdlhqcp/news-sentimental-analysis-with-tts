@@ -110,7 +110,6 @@ node server.js
 - **Generating Speech Output:** The AI backend converts the summarized text into Hindi speech using a TTS model.
 - APIs can be accessed via Postman or cURL requests.
 
-
 ---
 
 ## API Usage
@@ -118,15 +117,17 @@ node server.js
 - **NewsAPI:** Used to fetch news articles based on a given keyword. (Used to get some more data for report analysis apart from scrappinf data)
 - **OpenRouter AI:** Utilized for sentiment analysis and NLP-based text summarization.
 - **Google TTS (gTTS):** Converts the summarized text into Hindi speech output.
+
+ ---
+
+## Assumption and Limitations
+- **For scrapping and getting data more Non-Js websites need to be find** 
+- **Further tunnings needed for scrapping the data for more reliable output** 
+- **Made Seperate section for news generation, article report generation and for hindi tts as if a GET request is send at a streach high load need to tolerate** 
 ---
 
 ## Contribution
 Feel free to contribute by submitting a pull request or reporting an issue.
-
----
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
@@ -135,7 +136,36 @@ For any queries, contact the project maintainer at [your-dilhaquecp@gmail.com](m
 
 ---
 
+## bs4 api output
+
+![Screenshot 2025-03-21 221537](https://github.com/user-attachments/assets/abe78e34-eae5-427a-9e50-a6c379e69aa4)
+
+![Screenshot 2025-03-21 221537](https://github.com/user-attachments/assets/abe78e34-eae5-427a-9e50-a6c379e69aa4)
+
+---
+
 ## Demo
+
 Here are the final generated output images..
 
 ---
+
+![Screenshot 2025-03-18 221743](https://github.com/user-attachments/assets/ace44f9e-0e1c-4f9d-bdd0-e4948a7cedef)
+
+![Screenshot 2025-03-18 221714](https://github.com/user-attachments/assets/3402c742-d848-458c-bca4-3a4915d06d1f)
+
+Generated Report :-
+
+![Screenshot 2025-03-19 232316](https://github.com/user-attachments/assets/81690bfd-0e45-42c4-927e-1a62229adcfe)
+
+![Screenshot 2025-03-19 232304](https://github.com/user-attachments/assets/8228b0f9-b9d3-4a95-b9a1-b0cebaba93bf)
+
+generated report :-
+
+![Screenshot 2025-03-21 213752](https://github.com/user-attachments/assets/9288e815-af26-4a8e-94c1-d5db4abc2015)
+
+generated overall report :-
+![Screenshot 2025-03-21 220948](https://github.com/user-attachments/assets/71034074-c31b-429c-a1e4-3e7b0fd77e85)
+
+![Screenshot 2025-03-21 213819](https://github.com/user-attachments/assets/aeb96297-00ab-42fc-9b3f-0056d5283bc5)
+
