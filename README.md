@@ -138,6 +138,9 @@ For any queries, contact the project maintainer at [your-dilhaquecp@gmail.com](m
 
 ## bs4 api output
 
+Final Report :-
+![Screenshot 2025-03-24 195436](https://github.com/user-attachments/assets/0bcaad1c-df14-41ea-b673-ece588e4001f)
+
 ![Screenshot 2025-03-21 221537](https://github.com/user-attachments/assets/abe78e34-eae5-427a-9e50-a6c379e69aa4)
 
 ![Screenshot 2025-03-21 221537](https://github.com/user-attachments/assets/abe78e34-eae5-427a-9e50-a6c379e69aa4)
