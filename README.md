@@ -18,6 +18,8 @@ The project consists of three main components:
 - **Summarization Model:** Utilizes OpenAI/Gemini-based NLP models for extracting key information from articles.
 - **Sentiment Analysis Model**
 
+ ![project-architecture](https://github.com/user-attachments/assets/f1ed261e-7e5b-4dc7-b6da-dbb30f6ba933)
+
 
 ---
 
