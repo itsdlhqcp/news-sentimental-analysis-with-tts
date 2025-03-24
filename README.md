@@ -13,6 +13,14 @@ The project consists of three main components:
 
 ---
 
+## Model Details
+**The project uses the following AI models:** 
+- **Summarization Model:** Utilizes OpenAI/Gemini-based NLP models for extracting key information from articles.
+- **Sentiment Analysis Model**
+
+
+---
+
 ## Installation & Setup
 note:- 
 1.  **Feel free to test the API using the provided API keys**
@@ -91,6 +99,23 @@ node server.js
 - **Backend:** FastAPI, OpenAI, Transformers, Torch, gTTS
 - **Web Fetch Service:** Node.js, Express
 
+---
+
+## API Development
+**The APIs are designed to facilitate the extraction, processing, and conversion of news articles into structured reports with sentiment analysis and TTS capabilities. The key functionalities include:** 
+- **Fetching Articles:** The Web Fetch Service scrapes news articles based on a given query.
+- **Processing Data:** The AI Backend Service performs sentiment analysis using NLP models.
+- **Generating Speech Output:** The AI backend converts the summarized text into Hindi speech using a TTS model.
+- APIs can be accessed via Postman or cURL requests.
+
+
+---
+
+## API Usage
+**The project integrates the following third-party APIs:** 
+- **NewsAPI:** Used to fetch news articles based on a given keyword. (Used to get some more data for report analysis apart from scrappinf data)
+- **OpenRouter AI:** Utilized for sentiment analysis and NLP-based text summarization.
+- **Google TTS (gTTS):** Converts the summarized text into Hindi speech output.
 ---
 
 ## Contribution
